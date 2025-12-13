@@ -4,3 +4,11 @@
 
 This project focuses on analyzing health and fitness-related data using Microsoft Excel.
 The objective is to track user activity, calorie intake & burn, water consumption, workout duration, BMI, and daily steps to understand overall fitness patterns and goal progress.
+
+## 📊 Key Analysis Performed
+
+- BMI categorization and health status analysis
+- Comparison of calorie intake vs calorie burn
+- Daily steps tracking against fitness goals
+- Workout duration impact on weight change
+- Water intake consistency analysis
