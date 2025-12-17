@@ -17,6 +17,9 @@ The objective is to track user activity, calorie intake & burn, water consumptio
 - Workout duration impact on weight change
 - Water intake consistency analysis
 
+## 🖼Dashboard Preview
+
+
 ## 📂 Project Structure
 Customer-Churn-Analysis/
   - │── Maya_Sales_Report.xlsx
