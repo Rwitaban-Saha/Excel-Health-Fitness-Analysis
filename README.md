@@ -1,5 +1,5 @@
 # 📘 Health & Fitness Analysis 
-## 🗂 Dataset Description(Ms-Excel)
+## 🗂 Dataset Description
 
 The dataset consists of multiple interrelated sheets including user profiles, daily health logs, calorie intake and burn, BMI calculations, step tracking, workout hours, and goal progress metrics.
 ## ⚡Dataset used
